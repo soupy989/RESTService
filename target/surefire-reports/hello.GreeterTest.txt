@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: hello.GreeterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 sec <<< FAILURE! - in hello.GreeterTest
+greeterSaysHello(hello.GreeterTest)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NoSuchMethodError: hello.Greeter: method <init>()V not found
+	at hello.GreeterTest.<init>(GreeterTest.java:10)
+
